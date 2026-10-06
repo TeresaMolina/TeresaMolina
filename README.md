@@ -32,19 +32,19 @@
 
 # Claude Academy
 
-[![Site Link](https://img.shields.io/badge/Building%20effective%20human%20agent%20teams%20(beta)-E38C3B)]([https://academy.claude.com/verify/d399c201e85949c006d2c32fdd0fddbb])
-[![Site Link](https://img.shields.io/badge/AI%20capabiities%20and%20limitations-E38C3B)]([https://academy.claude.com/verify/7c33bce0cc064ddfcd4ec13f2217188e])
-[![Site Link](https://img.shields.io/badge/AI%20Fluency:%20Framework%20and%20foundations-E38C3B)]([https://academy.claude.com/verify/b72f5b2a7c6301a6a359b58398b1856d])
+[![Site Link](https://img.shields.io/badge/Building%20effective%20human%20agent%20teams%20(beta)-E38C3B)](https://academy.claude.com/verify/d399c201e85949c006d2c32fdd0fddbb)
+[![Site Link](https://img.shields.io/badge/AI%20capabiities%20and%20limitations-E38C3B)](https://academy.claude.com/verify/7c33bce0cc064ddfcd4ec13f2217188e)
+[![Site Link](https://img.shields.io/badge/AI%20Fluency:%20Framework%20and%20foundations-E38C3B)](https://academy.claude.com/verify/b72f5b2a7c6301a6a359b58398b1856d)
 
 
 # Google Cybersecurity
 
 ![40%](https://progress-bar.xyz/40?title=Certificate%20Progress)
 
-[![Site Link](https://img.shields.io/badge/Foundations%20of%20Cybersecurity-4285F4)]([https://coursera.org/share/584f8d0c98e41880c2213cd284639f96])
-[![Site Link](https://img.shields.io/badge/Manage%20Security%20Risks-EA4335)]([https://coursera.org/share/ea490ab998c0dad6b74623b351546819])
-[![Site Link](https://img.shields.io/badge/Networks%20and%20Network%20Security-FBBC05)]([https://coursera.org/share/7d090efaaa8ec069a4dc1345c6f74bef])
-[![Site Link](https://img.shields.io/badge/Linux%20and%20SQL-34A853)]([https://coursera.org/share/f3a91c5105345aa3e2647db8e1052009])
+[![Site Link](https://img.shields.io/badge/Foundations%20of%20Cybersecurity-4285F4)](https://coursera.org/share/584f8d0c98e41880c2213cd284639f96)
+[![Site Link](https://img.shields.io/badge/Manage%20Security%20Risks-EA4335)](https://coursera.org/share/ea490ab998c0dad6b74623b351546819)
+[![Site Link](https://img.shields.io/badge/Networks%20and%20Network%20Security-FBBC05)](https://coursera.org/share/7d090efaaa8ec069a4dc1345c6f74bef)
+[![Site Link](https://img.shields.io/badge/Linux%20and%20SQL-34A853)](https://coursera.org/share/f3a91c5105345aa3e2647db8e1052009)
 
 <h3>My GitHub contributions summary</h3>
 
