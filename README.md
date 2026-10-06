@@ -1,4 +1,17 @@
+<!--Welcome image banner-->
+![lizard](https://media1.tenor.com/m/UY_0nvL3aRYAAAAC/oh-hiiii-oh-hi.gif)
+<!--Introduction-->
+# Welcome to my Portfolio
+
+### **Full Name:** Teresa  Brianna Molina
+> Preferred: Bri
+
+### **Multimedia Specialist Brand:** Sakura Starline Studios
+> Type: Twitch.tv Graphics and Media
+
 ![](https://komarev.com/ghpvc/?username=TeresaMolina&color=BA89E8)
+[![Site Link](https://img.shields.io/badge/Portfolio%20Button%20Link-9F56E3)](https://teresamolina.github.io/)
+[![Site Link](https://img.shields.io/badge/LinkedIn%20Profile-1F93D1)](https://www.linkedin.com/in/teresa-molina-232331328)
 
 <h3>Code I am familiar and comfortable with:</h3>
 <p>
