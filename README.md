@@ -39,7 +39,7 @@
 
 # Google Cybersecurity
 
-![40%](https://progress-bar.xyz/40?title=Certificate%20Progress)
+![44%](https://progress-bar.xyz/40?title=Certificate%20Progress)
 
 [![Site Link](https://img.shields.io/badge/Foundations%20of%20Cybersecurity-4285F4)](https://coursera.org/share/584f8d0c98e41880c2213cd284639f96)
 [![Site Link](https://img.shields.io/badge/Manage%20Security%20Risks-EA4335)](https://coursera.org/share/ea490ab998c0dad6b74623b351546819)
