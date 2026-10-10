@@ -75,10 +75,11 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TeresaMolina&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="GitHub Stats" />
 </p>
-
+-->
 ---
 
 <p align="center">
